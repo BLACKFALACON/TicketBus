@@ -1,0 +1,11 @@
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\bin\Debug\SQLUygulama.exe.config
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\bin\Debug\SQLUygulama.exe
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\bin\Debug\SQLUygulama.pdb
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.csprojAssemblyReference.cache
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.Form1.resources
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.Properties.Resources.resources
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.csproj.GenerateResource.cache
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.csproj.CoreCompileInputs.cache
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.exe
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.pdb
+C:\Users\AREL\Desktop\SQLUygulama\SQLUygulama\obj\Debug\SQLUygulama.Form2.resources
